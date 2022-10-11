@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Android Layouts</string>
+    <string name="btOffString">Выключено!</string>
+    <string name="btOnString">Включено!</string>
+    <string name="tvText">Text view example.</string>
+    <string name="evText">Edit text example.</string>
+    <string name="swText">Dummy switcher.</string>
+    <string name="cbText">Uncheck me please.</string>
+    <string name="btText">Open Add person layout.</string>
+    <string name="header">ADD PERSON.</string>
+    <string name="login">имя учетной записи:</string>
+    <string name="loginHint">Введите логин.</string>
+    <string name="personName">Фамилия Имя Отчество:</string>
+    <string name="phoneNumber">номер телефона:</string>
+    <string name="personNameHint">Введите ФИО.</string>
+    <string name="phoneNumberHint">+7-***-***-**-**</string>
+    <string name="password">пароль:</string>
+    <string name="passwordHint">Введите пароль.</string>
+    <string name="age">возраст:</string>
+    <string name="ageHint">Введите возраст.</string>
+    <string name="email">адрес электронной почты:</string>
+    <string name="emailHint">Введите e-mail</string>
+    <string name="registrationDate">дата регистрации:</string>
+    <string name="commit">подтвердить</string>
+
+</resources>
