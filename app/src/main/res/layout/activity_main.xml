@@ -47,6 +47,11 @@
         android:textColor="#455A64"
         android:textOff="@string/btOffString"
         android:textOn="@string/btOnString" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Нормальная разметка в другом layout-е. Пожалуйста, сотрите кровь с глаз и нажмите кнопку ниже. :)"/>
 
     <Button
         android:id="@+id/openPersonLayout"
